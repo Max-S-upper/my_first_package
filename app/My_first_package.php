@@ -1,7 +1,7 @@
 <?php
 
 
-class my_first_package
+class MyFirstPackage
 {
     public function smile() {
         echo ':)';
