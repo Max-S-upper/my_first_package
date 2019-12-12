@@ -1,0 +1,17 @@
+{
+    "name": "max/my_package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Max",
+            "email": "maxim.sokolsky@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "monolog/monolog": "~2"
+    },
+    "autoload": {
+        "classmap": ["app"]
+    }
+}
