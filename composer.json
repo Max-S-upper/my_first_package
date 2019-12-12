@@ -1,5 +1,6 @@
 {
     "name": "max/my_package",
+    "description": "My first composer package",
     "type": "library",
     "authors": [
         {
