@@ -1,5 +1,5 @@
 {
-    "name": "max-S-upper/my_first_package",
+    "name": "max-s-upper/my_first_package",
     "description": "My first composer package",
     "type": "library",
     "authors": [
