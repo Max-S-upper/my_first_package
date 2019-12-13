@@ -1,6 +1,6 @@
 <?php
 
-namespace myFirstPackage;
+namespace app\myFirstPackage;
 
 class MyFirstPackage extends \Monolog\Logger
 {
