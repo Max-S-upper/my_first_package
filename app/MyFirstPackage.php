@@ -1,5 +1,7 @@
 <?php
 
+namespace myFirstPackage;
+
 class MyFirstPackage extends \Monolog\Logger
 {
     public function customGetProcessor() {
