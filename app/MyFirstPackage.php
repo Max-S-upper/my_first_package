@@ -1,8 +1,11 @@
 <?php
 
+namespace my_package\app;
+
 class MyFirstPackage extends \Monolog\Logger
 {
-    public function customGetProcessor() {
+    public function customGetProcessor()
+    {
         $processors = '';
         implode($processors, $this->getProcessors());
         if (!$processors) return "You haven't got any processors yet";
