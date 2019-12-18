@@ -10,7 +10,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "monolog/monolog": "^2.0"
+        "monolog/monolog": "^2.0",
+        "php-curl": ">=5.6.0"
     },
     "autoload": {
         "classmap": ["app"]
