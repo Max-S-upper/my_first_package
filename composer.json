@@ -1,6 +1,6 @@
 {
-    "name": "max-s-upper/my_first_smile_package",
-    "description": "My first composer package",
+    "name": "max-s-upper/log_to_telegram",
+    "description": "Send monolog logger's messages to telegram",
     "type": "library",
     "authors": [
         {
